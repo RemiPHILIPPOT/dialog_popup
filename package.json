@@ -1,17 +1,31 @@
 {
   "name": "dialog_popup",
   "author": "Rémi PHILIPPOT",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "repository": {
     "url": "https://github.com/RemiPHILIPPOT/dialog_popup.git",
     "type": "git"
   },
+  "keywords": [
+    "dialog",
+    "popup",
+    "alert",
+    "confirm",
+    "prompt",
+    "modal",
+    "dialog",
+    "popup",
+    "alert",
+    "confirm",
+    "prompt",
+    "modal"
+  ],
   "files": [
     "dist",
     "README.md"
   ],
-  "main": "dist/index.js",
-  "module": "dist/index.js",
+  "main": "dist/lib/index.js",
+  "module": "dist/lib/index.js",
   "private": false,
   "dependencies": {
     "@babel/cli": "^7.17.10",
